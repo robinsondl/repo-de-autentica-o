@@ -1,2 +1,2 @@
-# repo-de-autentica-o
+# repo-de-autenticao
 repo-de-autenticação
